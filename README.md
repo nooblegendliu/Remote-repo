@@ -1,4 +1,4 @@
 # Remote-repo
-my first repo for study git and use git to organize my shock tube solve program
-
-test git push and git pull
+my first repo for study git
+test1 : git push and pull
+test2 : waiting
